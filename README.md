@@ -10,6 +10,13 @@ https://github.com/jas502n/SqlMap_BurpSuite/blob/master/burp_sqlmap/out/artifact
 ![](./sqlmap2burp.jpg)
 ![](./jd-gui.jpg)
 
+### grep -r "send to Sqlmap"
+`src/burp/SnifferContextMenuFactory.java:        JMenuItem jMenuItem = new JMenuItem("send to Sqlmap"); `
+
+`JMenuItem jMenuItem = new JMenuItem("send to sqlmap4burp");`
+
+![](./sqlmap4.jpg)
+
 ### 参考链接
 
 https://github.com/difcareer/sqlmap4burp
