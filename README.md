@@ -25,7 +25,7 @@ https://github.com/jas502n/SqlMap_BurpSuite/blob/master/sqlmap4burp.jar
 
 https://t0data.gitbooks.io/burpsuite/content/chapter18.html
 
-`https://t0data.gitbooks.io/burpsuite/content/images/18_14.png`
+![](./https://t0data.gitbooks.io/burpsuite/content/images/18_14.png)
 
 
 ### 参考链接
