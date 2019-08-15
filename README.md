@@ -8,7 +8,7 @@ https://github.com/jas502n/SqlMap_BurpSuite/blob/master/burp_sqlmap/out/artifact
 
 ![](./sqlmap4burp.jpg)
 ![](./sqlmap2burp.jpg)
-
+![](./jd-gui.jpg)
 
 ### 参考链接
 
