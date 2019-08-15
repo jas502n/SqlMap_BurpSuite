@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="burp_sqlmap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/burp_sqlmap_jar</output-path>
+    <root id="archive" name="burp_sqlmap.jar">
+      <element id="module-output" name="burp_sqlmap" />
+      <element id="extracted-dir" path="D:/Pentester/Burpsuite/sqlmap-classpath/commons-lang3-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Pentester/Burpsuite/sqlmap-classpath/commons-io-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
