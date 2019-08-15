@@ -21,6 +21,15 @@ https://github.com/jas502n/SqlMap_BurpSuite/blob/master/sqlmap4burp.jar
 ![](./sql.jpg)
 ![](./sql2.jpg)
 
+## 使用Burp, Sqlmap进行自动化批量SQL注入渗透测试
+
+https://t0data.gitbooks.io/burpsuite/content/chapter18.html
+
+`https://t0data.gitbooks.io/burpsuite/content/images/18_14.png`
+
+
 ### 参考链接
 
 https://github.com/difcareer/sqlmap4burp
+
+https://t0data.gitbooks.io/burpsuite/content/chapter18.html
