@@ -17,6 +17,9 @@ https://github.com/jas502n/SqlMap_BurpSuite/blob/master/burp_sqlmap/out/artifact
 
 ![](./sqlmap4.jpg)
 
+https://github.com/jas502n/SqlMap_BurpSuite/blob/master/sqlmap4burp.jar
+
+
 ### 参考链接
 
 https://github.com/difcareer/sqlmap4burp
